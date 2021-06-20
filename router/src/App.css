@@ -34,7 +34,7 @@ body
 {
     margin:50px;
 }
-/* .detail
-{
-  margin-left: 40px;
-} */
+.description{
+    text-align: center;
+    margin-bottom: 20px;
+}

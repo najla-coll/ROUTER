@@ -11,7 +11,7 @@ const MovieCard = () => {
 	return (
 		
 
-   <>
+  
        <div className ='list'>
 		  	{movies.map((el) => (
 				<Link to={`/movieliste/${el.id}`} >
@@ -21,7 +21,7 @@ const MovieCard = () => {
        
 		     }
         </div>
-      </>
+     
 		
 	)
 }
